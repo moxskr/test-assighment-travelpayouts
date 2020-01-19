@@ -1,0 +1,4 @@
+export const GET_HEADER_API = 'GET_HEADER_API';
+export const GET_SERVICES_API = 'GET_SERVICES_API';
+export const CHANGE_FILTER = 'CHANGE_FILTER';
+export const CANCEL_FILTER = 'CANCEL_FILTER';
